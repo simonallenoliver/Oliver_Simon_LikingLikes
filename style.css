@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    align-items: center;
+}
+
+.navBar{
+    display: flex;
+    justify-content: center;
+}
+
+.feed{
+    display: flex;
+    justify-content: center;
+    font-size: 22pt;
+}
+
+#network{
+    font-size: 30pt;
+    background-color: black;
+    color: white;
+    width: 800px;
+    padding: 15px 0px 15px 30px;
+}
+
+.bigBoxDisplay{
+    display: flex;
+    justify-content: center;
+}
+
+.bigbox{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width: 800px;
+}
+
+.cols{
+    display: flex;
+    
+}
+
+.col1{
+    flex: 1;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.col1box{
+    padding: 10px;
+    background-color: white;
+    border: 4px solid black;
+    text-align: center;
+    margin-bottom: 167px;
+}
+
+#todd{
+border-radius: 50%;
+margin: 10px;
+}
+
+#jamesDoe{
+    font-size: 18pt;
+    margin: 10px;
+}
+
+.likebutton{
+    padding: 3px 10px;
+    background-color: darkkhaki;
+    margin-left: 10px;
+}
+.col2{
+    flex: 4;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.col2box{
+    padding: 10px;
+    background-color: white;
+    border: 4px solid black;
+    padding: 30px;
+    padding-right: 10px;
+    margin: 10px;
+    margin-right: 0px;
+}
+
+.innerbox1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.innerbox2{
+    margin-top: 10px;
+}
+
+#likecount{
+    margin-left: 250px;
+}
+
+.name{
+    font-size: 18pt;
+}
+
